@@ -44,8 +44,12 @@ function App() {
         <div className="info-window fade-up delay">
           <h4>Made By</h4>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-            suscipit lorem nec luctus convallis.
+            Poras Ravindra Barhate 23BSA10020 <br />
+            Prarabdh Soni 23BSA10021 <br />
+            Harsh Kumar Nimesh 23BSA10039 <br />
+            Yashveer Rai 23BSA10120 <br />
+            Mayukh Jain 23BSA10198
+            <br />
           </p>
         </div>
       </footer>
